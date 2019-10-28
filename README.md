@@ -16,7 +16,7 @@ médicament.
 Le nouveau médicament a t’il un effet sur l’activité cérébrale du
 patient étudié ?
 
-  - Jeu de données : schizo.txt
+> Jeu de données : schizo.txt
 
 ### Les tremblements de terre dans le monde
 
@@ -41,7 +41,7 @@ Est ce que les feux de forêts sont-ils en augmentation ?
 
 > Jeu de données : fire.txt
 
-**Note** : 1 acre correspond à 4046 m^2
+**Note** : 1 acre correspond à 4046 m<sup>2</sup>
 
 ### La population de lynx
 
@@ -50,7 +50,7 @@ Canada.
 
 <img src="images/lynx.jpg" width="55%" style="display: block; margin: auto;" />
 
-> Jeu de données : lynx présent dans R
+> Jeu de données : lynx du package datasets
 
 ### La production de bières
 

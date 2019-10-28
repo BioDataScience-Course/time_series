@@ -19,7 +19,7 @@ Un test d'activité cérébrale est réalisé sur un patient quotidiennement dur
 
 Le nouveau médicament a t'il un effet sur l'activité cérébrale du patient étudié ? 
 
-* Jeu de données : schizo.txt
+> Jeu de données : schizo.txt
 
 ### Les tremblements de terre dans le monde
 
@@ -48,7 +48,7 @@ Est ce que les feux de forêts sont-ils en augmentation ?
 
 > Jeu de données : fire.txt
 
-**Note** :  1  acre correspond à 4046 m^2
+**Note** :  1  acre correspond à 4046 m^2^
 
 ### La population de lynx
 
@@ -58,7 +58,7 @@ Une étude s'intéresse aux  lynx capturés entre 1821 et 1934 au Canada.
 knitr::include_graphics("images/lynx.jpg")
 ```
 
-> Jeu de données : lynx présent dans R
+> Jeu de données : lynx du package datasets
 
 ### La production de bières
 
